@@ -7,4 +7,9 @@ Hướng dẫn cài đặt và cách sử dụng
           php spark serve // thông báo hiện ra ở dưới nếu localhost:8080 thì tức là đã thành công.
       và nếu 8080 đã bị sử dụng thì nó sẽ tự động chon port khác, trong trường hợp này là 8081
 - Vậy nên làm xong các bước trên có thể vào web thực hiện URL: http://localhost:8080 để trải nghiệm.
+- còn về database thì đã up lên luôn (.sql) là đuôi để tìm lấy.
+- Tải về database và lên web gõ http://localhost:/phpMyAdmin
+- username : root
+- password : (*để trống*)
+- tại phần import chỉ cần tìm đến file.sql để truy xuất để tải lên là đã hoàn thành.
 **/
